@@ -31,9 +31,11 @@ To design and implement a comprehensive dashboard for insurance analytics at PRI
 ## Interactive Dashboard
 <a href="https://github.com/srikanth20k/insurance_project/blob/main/insurance_dashboard.pbix">View Dashboard</a>
 
+## Image of Dashboard
+<a href="https://github.com/srikanth20k/insurance_project/blob/main/insurance_project.png">View Image</a>
+<img width="1355" height="744" alt="insurance_project" src="https://github.com/user-attachments/assets/0ba6bc22-0433-4bbe-98cc-3598fef1e102" />
+
 ## Final Conclusion
 This dashboard provides a holistic view of the insurance business performance, highlighting key financials, operations, and customer demographics. Stakeholders can easily track premium generation, claims processing efficiency, policy status distribution, and identify business opportunities or pain points. Automated, data-driven insights foster enhanced decision-making and ongoing business growth.
 
-## Image of Dashboard
-<a href="https://github.com/srikanth20k/insurance_project/blob/main/insurance_project.png">View Image</a>
 
